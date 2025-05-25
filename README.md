@@ -1,0 +1,1 @@
+In this project i have made my three different portfoilo and name as index.html (portfolio-1),index1.html(portfoilo-2),index2.html(portfoil-3).these portfolio are deployed on ec2 instances (3) these 3 instances are register as in target group and connected to load balancer(ALB)
